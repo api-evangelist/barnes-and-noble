@@ -1,7 +1,12 @@
 aid: barnes-and-noble
-url: https://raw.githubusercontent.com/api-evangelist/barnes-and-noble/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/barnes-and-noble/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.barnes-and-noble.com
+description: >-
+  Barnes & Noble is the largest retail bookseller in the United States, operating
+  physical bookstores and an e-commerce site selling books, magazines, gifts, and
+  educational products.
