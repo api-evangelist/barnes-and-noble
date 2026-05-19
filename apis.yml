@@ -16,6 +16,8 @@ description: >-
   primarily through retail channels and affiliate marketing programs.
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/BarnesandNoble
   - type: Website
     url: https://www.barnesandnoble.com/
     name: Barnes & Noble
