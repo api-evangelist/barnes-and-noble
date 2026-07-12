@@ -17,6 +17,8 @@ description: >-
   primarily through retail channels and affiliate marketing programs.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/barnes-and-noble-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/BarnesandNoble
   - type: Website
@@ -31,6 +33,8 @@ common:
   - type: PrivacyPolicy
     url: https://www.barnesandnoble.com/h/help/privacy-policy
     name: Privacy Policy
+  - url: https://www.barnesandnoble.com/blog/
+    type: Blog
   - name: Features
     type: Features
     data:
