@@ -1,4 +1,16 @@
 aid: barnes-and-noble
+accessModel:
+  pricing: unknown
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Requires approval
+  confidence: medium
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/barnes-and-noble.png
 url: https://raw.githubusercontent.com/api-evangelist/barnes-and-noble/refs/heads/main/apis.yml
 name: Barnes & Noble
 tags:
